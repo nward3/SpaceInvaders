@@ -1,6 +1,6 @@
 # Space Invaders
 ![](https://github.com/nward3/SpaceInvaders/blob/master/images/GameScreenShot.jpg)
-By: Nick Ward and Dina Vu.
+By: Nick Ward and Dina Vu
 
 CSE20211 - Fundamentals of Computing I: Final Project
 Last Updated: December 13, 2014
